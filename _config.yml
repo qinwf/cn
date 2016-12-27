@@ -1,0 +1,16 @@
+# Jekyll Defaults
+title: Blogs
+description: Blogs
+baseurl: "" # the subpath of your site, e.g. /blog
+highlighter: rouge
+markdown: kramdown
+permalink: /:categories/:title/
+paginate: 4
+gems: [jekyll-paginate]
+paginate_path: "/page:num"
+rss_path: /feed.xml
+navigation:
+- text: Archives
+  url: /archives/
+- text: Tags
+  url: /tags/
