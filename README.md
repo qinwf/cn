@@ -10,3 +10,4 @@ blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS 
 ## Install
 
 Fork, rename it to username.github.io and you're ready! (replace username with your username) Some important configuration can be done in ``_config.yml``. Do check the Setup section in that file.
+
